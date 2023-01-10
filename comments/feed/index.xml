@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for CCTV Bitung	</title>
-	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
+	Comments for CCTV Blitar	</title>
+	<atom:link href="/comments/feed?simply_static_page=1861" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Jual &#38; Pasang CCTV</description>
-	<lastBuildDate>Sat, 07 Jan 2023 14:48:00 +0000</lastBuildDate>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 10 Jan 2023 03:29:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
